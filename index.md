@@ -23,7 +23,7 @@ layout: homepage
   <br>
   The Fifth International Conference on Civil and Building Engineering Informatics. **ICCBEI 2023**.
   <br>
-  [[Full Proceedings](https://civil.eng.chula.ac.th/iccbei2023/Proceedings/ICCBEI2023-Prodeedings-completed.pdf)] [[PDF Paper]()] [[Presentation]()] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Full Proceedings](https://civil.eng.chula.ac.th/iccbei2023/Proceedings/ICCBEI2023-Prodeedings-completed.pdf)] [[PDF Paper](https://wattwong103.github.io/research/pdf/ICCBEI2023-Prodeedings-completed-101-108.pdf)] [[Presentation](https://wattwong103.github.io/research/pdf/Flood%20Presentation%20ICCBEI.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Integrating Digital Surface Model for Flood Risk Assessment of Railway Networks in Thailand**
   <br>
@@ -31,7 +31,7 @@ layout: homepage
   <br>
   The Third International Conference of Rail Transportation. **ICRT 2024**.
   <br>
-  [[Abstract]()] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Abstract](https://wattwong103.github.io/research/pdf/J0104.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
