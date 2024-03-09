@@ -25,7 +25,7 @@ layout: homepage
   <br>
   [[Full Proceedings](https://civil.eng.chula.ac.th/iccbei2023/Proceedings/ICCBEI2023-Prodeedings-completed.pdf)] [[PDF Paper](https://wattwong103.github.io/research/pdf/ICCBEI2023-Prodeedings-completed-101-108.pdf)] [[Presentation](https://wattwong103.github.io/research/pdf/Flood%20Presentation%20ICCBEI.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Integrating Digital Surface Model for Flood Risk Assessment of Railway Networks in Thailand**
+- **Upcoming: Integrating Digital Surface Model for Flood Risk Assessment of Railway Networks in Thailand**
   <br>
   **Watcharapong Wongkaew**, Wachira Muenyoksakul, Tanawat Tangjarusritaratorn, Chayut Ngamkhanong
   <br>
@@ -33,37 +33,68 @@ layout: homepage
   <br>
   [[Abstract](https://wattwong103.github.io/research/pdf/J0104.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Upcoming: Using Travel Demand Survey Data to Predict Mode Shift by Machine Learning Techniques; Case Study: Bangkok**
   <br>
-  dfdfdf
+  **Watcharapong Wongkaew**, Wachira Muenyoksakul, Kongtup Wanichjaroenporn
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  17th International Conference on Travel Behavior Research. **IATBR 2024**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+  [[Abstract](https://wattwong103.github.io/research/pdf/iatbr2024_3.pdf)] [[Code]()] [[Project]()] [[Poster]()] [[Presentation]()]
+
+- **Upcoming: The Impact of Public Transportation Availability on Airport Passenger Egress Mode Choice: Don Mueang International Airport**
+  <br>
+  **Watcharapong Wongkaew**, Patanapong Sanghatawatana, Pitchaya Panwan, Rattanaporn Kaewkluengklom, Chakaphan Chullabodhi, Wachira Muanyoksakul, Phathinan Thaithatkul
+  <br>
+  Currently under revision. **Transportation Research Record**.
+  <br>
+  [[Abstract]()] [[Code]()] [[Presentation]()]
+
+- **Upcoming: Data-Driven Machine Learning Prognostics of Buckling Failure Modes in Ballasted Railway Track**
+  <br>
+  **Watcharapong Wongkaew**, Wachira Muanyoksakul, Chayut Ngamkhanong
+  <br>
+  Currently under review. **Automation in Construction**.
+  <br>
+  [[Abstract]()] [[Code]()]
 
 
-## Selected Talks
+## Selected Talks & Papers
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Prediction and validation of motorcycle drivers’ behavior**
   <br>
-  NeurIPS Official Meetups
+  2101550 Statistical Method of Transportation Analysis Term Paper
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  [[Paper](https://wattwong103.github.io/research/pdf/Term-Paper-V2.pdf)]
 
-- **Multi-Class Incremental Learning**
+- **There must be a better way to live: Ideal Urbanism**
   <br>
-  School of Computer Science and Engineering, Nanyang Technological University
+  Slur Project, Bangkok Design Week 2020
   <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+  Bangkok, February 2020 [[LIVE Video](https://www.facebook.com/100064644313878/videos/232033407799665)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Get to know Bangkok's transportation network**
   <br>
-  School of Computing, National University of Singapore
+  RTUS Bangkok, Bangkok Youth Festival 2022 (Video in Thai/English)
   <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  Bangkok, December 2022 
+  [[LIVE Video](https://www.facebook.com/100078139255908/videos/483110180286732)]
+
+## Projects
+- **RTUS Ideathon Bangkok 2021 - 2022**
+  <br>
+  Youth involvement and incubation program in urban development. Joined as public transportation team  Goethe Institut & EU | 2021 - 2023
+- **Strategic Agenda Team, Thailand Science Research and Innovation (TSRI)**
+  <br>
+  Research program determining Thailand's logistics and transportation development importance | 2021 - 2023
+- **UrbanAct Project , GIZ**
+  <br>
+  Climate Sensitive Transportation Planning in Thailand, work as research assistant | 2023
+- **Bangkok Garbage Improvement Project, BMA**
+  <br>
+  Urban logistics and garbage collection logistics, environment sensitive area, Research Assistant| 2023
 
 ## Services
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Co-organizer: -
+- Conference Reviewers: [IATBR 2024](https://iatbr2024.univie.ac.at/home/)
+- Journal Reviewers: -
