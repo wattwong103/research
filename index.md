@@ -4,8 +4,10 @@ layout: homepage
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Transportation Engineering:** 4-Step Sequential Modelling, Travel Behavior Survey Methods, Travel Behavior Analysis, Modal split modeling/ analysis
+- **Transportation and Land Use:** Land use and transport model, urban transportation planning, etc.
+- **Railway Engineering:** Climate change mitigation/ adaptation, Infrasturcture management and maintenance, Detection of railway defect
+- **Statistics/ Machine Learning:** traditional learning, deep learning, transformer, Artificial Neural Network, Forecasting and time series analysis, etc.
 
 ## News
 
