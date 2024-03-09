@@ -11,32 +11,31 @@ layout: homepage
 
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Feb 2024]** Our paper about railway flood prediction is accepted to [ICRT 2024](https://www.icrt.org.cn/).
+- **[Jan 2024]** Our paper about travel demand survey is accepted to [IATBR 2024](https://iatbr2024.univie.ac.at/home/).
+- **[Mar 2023]** Our paper about railway flooding is accepted to [ICCBEI 2023](https://civil.eng.chula.ac.th/iccbei2023/).
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Risk Assessment of Railway Tracks in Floodplain Area Using Digital Surface Model and Computer Vision**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Watcharapong Wongkaew**, Wachira Muenyoksakul, Krittiphong Manachamni, Tanawat Tangjarusritaratorn, Chayut Ngamkhanong
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  The Fifth International Conference on Civil and Building Engineering Informatics. **ICCBEI 2023**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[Full Proceedings](https://civil.eng.chula.ac.th/iccbei2023/Proceedings/ICCBEI2023-Prodeedings-completed.pdf)] [[PDF Paper]()] [[Presentation]()] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Integrating Digital Surface Model for Flood Risk Assessment of Railway Networks in Thailand**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Watcharapong Wongkaew**, Wachira Muenyoksakul, Tanawat Tangjarusritaratorn, Chayut Ngamkhanong
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  The Third International Conference of Rail Transportation. **ICRT 2024**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
+  [[Abstract]()] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  dfdfdf
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
