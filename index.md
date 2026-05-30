@@ -11,6 +11,8 @@ layout: homepage
 
 ## News
 
+- **[Oct 2025]** Started M.Sc. in Civil Engineering at The University of Tokyo.
+- **[May 2025]** Awarded MEXT scholarship from the Dept. of Civil Engineering, The University of Tokyo.
 - **[Feb 2024]** Our paper about railway flood prediction is accepted to [ICRT 2024](https://www.icrt.org.cn/).
 - **[Jan 2024]** Our paper about travel demand survey is accepted to [IATBR 2024](https://iatbr2024.univie.ac.at/home/).
 - **[Mar 2023]** Our paper about railway flooding is accepted to [ICCBEI 2023](https://civil.eng.chula.ac.th/iccbei2023/).
@@ -33,29 +35,29 @@ layout: homepage
   <br>
   [[Abstract](https://wattwong103.github.io/research/pdf/J0104.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Upcoming: Using Travel Demand Survey Data to Predict Mode Shift by Machine Learning Techniques; Case Study: Bangkok**
-  <br>
-  **Watcharapong Wongkaew**, Wachira Muenyoksakul, Kongtup Wanichjaroenporn
-  <br>
-  17th International Conference on Travel Behavior Research. **IATBR 2024**.
-  <br>
-  [[Abstract](https://wattwong103.github.io/research/pdf/iatbr2024_3.pdf)] [[Code]()] [[Project]()] [[Poster]()] [[Presentation]()]
-
-- **Upcoming: The Impact of Public Transportation Availability on Airport Passenger Egress Mode Choice: Don Mueang International Airport**
+- **The Impact of Public Transportation Availability on Airport Passenger Egress Mode Choice: Don Mueang International Airport**
   <br>
   **Watcharapong Wongkaew**, Patanapong Sanghatawatana, Pitchaya Panwan, Rattanaporn Kaewkluengklom, Chakaphan Chullabodhi, Wachira Muanyoksakul, Phathinan Thaithatkul
   <br>
-  Currently under revision. **Transportation Research Record**.
+  Working Paper.
   <br>
   [[Abstract]()] [[Code]()] [[Presentation]()]
 
-- **Upcoming: Data-Driven Machine Learning Prognostics of Buckling Failure Modes in Ballasted Railway Track**
+- **Development of Flood Risk Map for Railway Tracks Using Digital Surface Model and Machine Learning: A Case Study in Tropical Climate Regions of Thailand**
   <br>
-  **Watcharapong Wongkaew**, Wachira Muanyoksakul, Chayut Ngamkhanong
+  **Watcharapong Wongkaew**, Kittipat Phunjanna, Wachira Muenyoksakul, Tanawat Tangjarusritaratorn, Naveen Kumar Kedia, Chayut Ngamkhanong
   <br>
-  Currently under review. **Automation in Construction**.
+  Book Chapter. *In Press*.
   <br>
   [[Abstract]()] [[Code]()]
+
+- **Data-Driven Machine Learning Prognostics of Buckling Failure Modes in Ballasted Railway Track**
+  <br>
+  **Watcharapong Wongkaew**, Wachira Muanyoksakul, Chayut Ngamkhanong, Jessada Sresakoolchai, Sakdirat Kaewunruen
+  <br>
+  Discover Applied Sciences, 6, 212, 2024.
+  <br>
+  [[Paper](https://link.springer.com/article/10.1007/s42452-024-05885-3)] [[Code]()]
 
 
 ## Selected Talks & Papers
@@ -91,7 +93,13 @@ layout: homepage
   Climate Sensitive Transportation Planning in Thailand, work as research assistant | 2023
 - **Bangkok Garbage Improvement Project, BMA**
   <br>
-  Urban logistics and garbage collection logistics, environment sensitive area, Research Assistant| 2023
+  Urban logistics and garbage collection logistics, environment sensitive area, Research Assistant | 2023
+- **Electric 3-Wheeler Development Project, Department of Land Transport**
+  <br>
+  Legislation and public perception of Tuk-tuk (3-wheelers) and electric vehicle adoption, Research Assistant | 2024
+- **Highway Traffic Prediction Project, Department of Highways**
+  <br>
+  Highway travel time analysis and traffic prediction, anomaly detection and data augmentation, Research Associate | 2024 - 2025
 
 ## Services
 
