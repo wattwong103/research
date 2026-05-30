@@ -19,6 +19,22 @@ layout: homepage
 
 ## Publications
 
+- **Spatiotemporal Dynamics of Land Use and Ridership: A Geographically Weighted Regression Analysis of Bangkok's MRT Blue Line**
+  <br>
+  **Watcharapong Wongkaew**, Kongtup Wanichjaroenporn, Pairoj Bunditsakulchai
+  <br>
+  16th International Conference on Advanced Systems in Public Transport. **CASPT 2025**. Article published in special issue in **Public Transport**, 2026.
+  <br>
+  [[Paper]()] [[Code]()]
+
+- **Spatiotemporal Dynamics of Land Use and Ridership: A Geographically Weighted Regression Analysis of Bangkok's MRT Blue Line**
+  <br>
+  **Watcharapong Wongkaew**, Kongtup Wanichjaroenporn, Pairoj Bunditsakulchai
+  <br>
+  3rd International Workshop on Geographic Modelling and Simulation. **IWGMS 2024**. Abstract published in proceedings.
+  <br>
+  [[Abstract]()] [[Code]()]
+
 - **Risk Assessment of Railway Tracks in Floodplain Area Using Digital Surface Model and Computer Vision**
   <br>
   **Watcharapong Wongkaew**, Wachira Muenyoksakul, Krittiphong Manachamni, Tanawat Tangjarusritaratorn, Chayut Ngamkhanong
@@ -27,11 +43,11 @@ layout: homepage
   <br>
   [[Full Proceedings](https://civil.eng.chula.ac.th/iccbei2023/Proceedings/ICCBEI2023-Prodeedings-completed.pdf)] [[PDF Paper](https://wattwong103.github.io/research/pdf/ICCBEI2023-Prodeedings-completed-101-108.pdf)] [[Presentation](https://wattwong103.github.io/research/pdf/Flood%20Presentation%20ICCBEI.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Upcoming: Integrating Digital Surface Model for Flood Risk Assessment of Railway Networks in Thailand**
+- **Integrating Digital Surface Model for Flood Risk Assessment of Railway Networks in Thailand**
   <br>
-  **Watcharapong Wongkaew**, Wachira Muenyoksakul, Tanawat Tangjarusritaratorn, Chayut Ngamkhanong
+  **Watcharapong Wongkaew**, Kittipat Phunjanna, Wachira Muanyoksakul, Chayut Ngamkhanong
   <br>
-  The Third International Conference of Rail Transportation. **ICRT 2024**.
+  International Conference of Rail Transportation. **ICRT 2024**. Article published in proceedings.
   <br>
   [[Abstract](https://wattwong103.github.io/research/pdf/J0104.pdf)] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
