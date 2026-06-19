@@ -521,6 +521,23 @@ strong { color: var(--text-strong); font-weight: var(--weight-bold); }
 .service-row__label { font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-muted); flex: 0 0 180px; }
 .service-row__value { font-size: var(--text-sm); color: var(--text-body); margin: 0; }
 
+/* Awards reuse the services rows; brand reserves coral for awards */
+.awards .service-row__label { color: var(--status-highlight); }
+
+/* =============================================================
+   EDUCATION
+   ============================================================= */
+.edu { margin-top: 12px; }
+.edu__item {
+  display: flex; justify-content: space-between; gap: var(--space-5);
+  padding: var(--space-4) 0; border-bottom: 1px solid var(--divider);
+}
+.edu__degree { font-family: var(--font-sans); font-weight: var(--weight-bold); font-size: var(--text-md); color: var(--text-strong); line-height: 1.35; margin: 0 0 4px; }
+.edu__org { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--text-muted); margin: 0 0 6px; }
+.edu__note { font-size: var(--text-sm); color: var(--text-muted); line-height: 1.55; margin: 0; }
+.edu__year { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--text-faint); white-space: nowrap; flex: none; padding-top: 3px; }
+@media (max-width: 760px) { .edu__item { flex-direction: column; gap: 6px; } }
+
 /* =============================================================
    BUTTONS
    ============================================================= */

@@ -58,6 +58,40 @@ layout: homepage
   </div>
 </section>
 
+<!-- ===================== EDUCATION ===================== -->
+<section class="section" id="education" aria-label="Education">
+  <div class="section__head">
+    <span class="eyebrow">Education</span>
+    <h2 class="section__title">Education</h2>
+  </div>
+  <div class="edu">
+    <div class="edu__item">
+      <div>
+        <p class="edu__degree">M.Sc. in Civil Engineering &mdash; Geospatial Engineering</p>
+        <p class="edu__org">Center for Spatial Information Science (CSIS), Dept. of Civil Engineering &middot; The University of Tokyo</p>
+        <p class="edu__note">Sekimoto Lab — generative urban mobility (decoder-only transformers) and synthetic populations (Pseudo-PFLOW).</p>
+      </div>
+      <span class="edu__year">2025 – 2027 (expected)</span>
+    </div>
+    <div class="edu__item">
+      <div>
+        <p class="edu__degree">B.Eng. in Civil Engineering &mdash; Transportation Engineering</p>
+        <p class="edu__org">Chulalongkorn University, Bangkok &middot; First-class honours</p>
+        <p class="edu__note">Research apprentice, Chulalongkorn University Transportation Institute (2021–2023). President, CU Model United Nations Club.</p>
+      </div>
+      <span class="edu__year">2023</span>
+    </div>
+    <div class="edu__item">
+      <div>
+        <p class="edu__degree">Secondary &mdash; STEM concentration</p>
+        <p class="edu__org">Mahidol Wittayanusorn School (MWIT), Nakhon Pathom</p>
+        <p class="edu__note">Bronze medallist, International Geography Olympiad.</p>
+      </div>
+      <span class="edu__year">2019</span>
+    </div>
+  </div>
+</section>
+
 <!-- ===================== NEWS ===================== -->
 <section class="section" id="news" aria-label="News">
   <div class="section__head">
@@ -102,6 +136,24 @@ layout: homepage
       <p class="pub__title">Spatiotemporal Dynamics of Land Use and Ridership: A Geographically Weighted Regression Analysis of Bangkok&rsquo;s MRT Blue Line</p>
       <p class="pub__authors"><span class="me">Watcharapong Wongkaew</span>, Kongtup Wanichjaroenporn, Pairoj Bunditsakulchai</p>
       <p class="pub__venue">CASPT 2025 &middot; Special issue in Public Transport &middot; 2026</p>
+      <div class="pub__links">
+        <span class="linkchip" aria-disabled="true">Paper</span>
+        <span class="linkchip" aria-disabled="true">Code</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2025 -->
+  <div class="year-group">
+    <h3 class="year-group__label">2025</h3>
+    <div class="pub">
+      <div class="pub__badges">
+        <span class="badge badge--accent">Transportation Research Record</span>
+        <span class="badge badge--brand">Accepted</span>
+      </div>
+      <p class="pub__title">Public Transport Accessibility Index for Bangkok and Its Application</p>
+      <p class="pub__authors"><span class="me">Watcharapong Wongkaew</span> et al.</p>
+      <p class="pub__venue">Accepted &middot; Transportation Research Record &middot; 2025</p>
       <div class="pub__links">
         <span class="linkchip" aria-disabled="true">Paper</span>
         <span class="linkchip" aria-disabled="true">Code</span>
@@ -172,9 +224,9 @@ layout: homepage
     <h3 class="year-group__label">In&nbsp;Press</h3>
     <div class="pub">
       <div class="pub__badges"><span class="badge badge--warning">Book Chapter &middot; In Press</span></div>
-      <p class="pub__title">Development of Flood Risk Map for Railway Tracks Using Digital Surface Model and Machine Learning: A Case Study in Tropical Climate Regions of Thailand</p>
+      <p class="pub__title">Railway Track Management Exposed to Extreme Events Using Machine Learning: A Case Study in Tropical Climate Regions of Thailand</p>
       <p class="pub__authors"><span class="me">Watcharapong Wongkaew</span>, Kittipat Phunjanna, Wachira Muenyoksakul, Tanawat Tangjarusritaratorn, Naveen Kumar Kedia, Chayut Ngamkhanong</p>
-      <p class="pub__venue">Book chapter &middot; In press</p>
+      <p class="pub__venue">Elsevier &middot; Artificial Intelligence for Railway Infrastructure &middot; In press</p>
       <div class="pub__links">
         <span class="linkchip" aria-disabled="true">Abstract</span>
         <span class="linkchip" aria-disabled="true">Code</span>
@@ -202,6 +254,24 @@ layout: homepage
     <p class="section__lede">Applied research and consultancy across railway resilience, travel behaviour, and urban-mobility policy.</p>
   </div>
   <div class="projects">
+    <article class="card card--interactive project">
+      <div class="project__cover project__cover--motif" role="img" aria-label="Transit-route motif"></div>
+      <div class="project__body">
+        <div><span class="badge badge--accent">UTokyo &middot; Sekimoto Lab</span></div>
+        <h3 class="project__title">Generative Urban Foundation Model</h3>
+        <p class="project__desc">Decoder-only transformer generating realistic human-mobility trajectories across world cities from real data; exploring world models and diffusion methods.</p>
+        <p class="project__meta">Investigator &middot; 2025 – present</p>
+      </div>
+    </article>
+    <article class="card card--interactive project">
+      <div class="project__cover project__cover--motif" role="img" aria-label="Transit-route motif"></div>
+      <div class="project__body">
+        <div><span class="badge badge--accent">ABM &middot; Synthetic Mobility</span></div>
+        <h3 class="project__title">Pseudo-PFLOW &mdash; Nationwide ABM</h3>
+        <p class="project__desc">Business-vehicle agent-based simulation generating 4.5M daily trips for 1.5M+ truck and taxi agents across 106 zones nationwide, for synthetic nationwide transport analysis.</p>
+        <p class="project__meta">CSIS, The University of Tokyo &middot; 2025</p>
+      </div>
+    </article>
     <article class="card card--interactive project">
       <img class="project__cover" src="{{ '/assets/img/traffic-flow.jpg' | relative_url }}" alt="Highway traffic" loading="lazy" />
       <div class="project__body">
@@ -284,6 +354,32 @@ layout: homepage
     <p class="talk__meta">RTUS Bangkok &middot; Bangkok Youth Festival 2022 &middot; Dec 2022 &middot; Thai / English</p>
     <div class="pub__links">
       <a class="linkchip" href="https://www.facebook.com/100078139255908/videos/483110180286732" target="_blank" rel="noopener">Live Video</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== AWARDS ===================== -->
+<section class="section" id="awards" aria-label="Awards">
+  <div class="section__head">
+    <span class="eyebrow">Awards</span>
+    <h2 class="section__title">Awards &amp; recognition</h2>
+  </div>
+  <div class="services awards">
+    <div class="service-row">
+      <span class="service-row__label">Finalist</span>
+      <p class="service-row__value">Thailand Innovation Awards 2021 — on-demand ride application for urban areas.</p>
+    </div>
+    <div class="service-row">
+      <span class="service-row__label">3rd place</span>
+      <p class="service-row__value">Environhack, Ministry of Natural Resources &amp; Environment — motorcycle EV conversion.</p>
+    </div>
+    <div class="service-row">
+      <span class="service-row__label">Hon. mention &amp; popular vote</span>
+      <p class="service-row__value">Falling Walls Lab — on-demand transportation.</p>
+    </div>
+    <div class="service-row">
+      <span class="service-row__label">Honorable mention</span>
+      <p class="service-row__value">German Embassy EV Hackathon (Superblocks) &middot; EIT Last-Mile Hackathon (first/last-mile, Bangkok) &middot; AWS Build on ASEAN (low-CO&#8322; delivery) &middot; GPSC Greenovation Sandbox (hydrogen buses).</p>
     </div>
   </div>
 </section>
