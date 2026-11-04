@@ -68,6 +68,7 @@
 
       <!-- Social row -->
       <section class="social" aria-label="Elsewhere">
+        <a href="https://wattwong103.github.io/" title="Personal site" aria-label="Personal site"><i class="fa-solid fa-house"></i></a>
         {% if site.email %}<a href="mailto:{{ site.email | split: ' / ' | first }}" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
         {% if site.google_scholar %}<a href="{{ site.google_scholar }}" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="fa-brands fa-google-scholar"></i></a>{% endif %}
         {% if site.github_link %}<a href="{{ site.github_link }}" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>{% endif %}
@@ -79,7 +80,7 @@
     <!-- ===== Footer ===== -->
     <footer class="site-footer">
       <div class="site-footer__inner">
-        &copy; {{ 'now' | date: "%Y" }} {{ site.title }}. Built in the al-folio tradition — whitespace, type, and citations.
+        &copy; {{ 'now' | date: "%Y" }} {{ site.title }}. Personal site: <a href="https://wattwong103.github.io/">wattwong103.github.io</a>. Built in the al-folio tradition — whitespace, type, and citations.
       </div>
     </footer>
 
