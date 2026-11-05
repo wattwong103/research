@@ -117,6 +117,14 @@ layout: homepage
       <p class="news-item__body">Talk at the Urban Intelligence &amp; Computing Symposium in Seattle, co-hosted by the <a href="https://ischool.uw.edu/" target="_blank" rel="noopener">UW Information School</a> and <a href="https://www.csis.u-tokyo.ac.jp/" target="_blank" rel="noopener">CSIS, The University of Tokyo</a>: <em>Generating Realistic Urban Mobility: The Role of Demographics and Home Location</em> (Nov 2).</p>
     </div>
     <div class="news-item">
+      <span class="news-item__date">Oct 2026</span>
+      <p class="news-item__body">Demonstration release of <a href="https://wattwong103.github.io/projects/13_project/" target="_blank" rel="noopener">BKK/FLOW</a>, an open-data platform for flood exposure and evacuation connectivity in Bangkok, built on the PFLOW people&ndash;activities&ndash;trips contract. Declared scenarios; not a forecast.</p>
+    </div>
+    <div class="news-item">
+      <span class="news-item__date">May 2026</span>
+      <p class="news-item__body">Released <a href="https://wattwong103.github.io/projects/12_project/" target="_blank" rel="noopener">trajectory-viz</a> v0.2 (alpha), an open-source dashboard for agent-based mobility output, first built for the Pseudo-PFLOW truck and taxi runs.</p>
+    </div>
+    <div class="news-item">
       <span class="news-item__date">Oct 2025</span>
       <p class="news-item__body">Co-authored paper on digital infrastructure and smart urbanism published in <a href="https://doi.org/10.3390/smartcities8050180" target="_blank" rel="noopener"><em>Smart Cities</em></a>.</p>
     </div>
@@ -236,6 +244,15 @@ layout: homepage
       </div>
     </div>
     <div class="pub">
+      <div class="pub__badges"><span class="badge badge--brand">IATBR 2024</span></div>
+      <p class="pub__title">Using Travel Demand Survey Data to Predict Mode Shift by Machine Learning Techniques; Case Study: Bangkok</p>
+      <p class="pub__authors"><span class="me">Watcharapong Wongkaew</span>, Krittiphong Manachamni, Kongtup Wanichjaroenporn, Wachira Muanyoksakul</p>
+      <p class="pub__venue">17th Int. Conference on Travel Behaviour Research (IATBR 2024) &middot; Vienna, Austria &middot; Extended abstract &middot; Jul 2024</p>
+      <div class="pub__links">
+        <a class="linkchip" href="{{ '/pdf/iatbr2024_3.pdf' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+      </div>
+    </div>
+    <div class="pub">
       <div class="pub__badges"><span class="badge badge--accent">Journal</span></div>
       <p class="pub__title">Data-Driven Machine Learning Prognostics of Buckling Failure Modes in Ballasted Railway Track</p>
       <p class="pub__authors"><span class="me">Watcharapong Wongkaew</span>, Wachira Muanyoksakul, Chayut Ngamkhanong, Jessada Sresakoolchai, Sakdirat Kaewunruen</p>
@@ -299,7 +316,7 @@ layout: homepage
   <div class="section__head">
     <span class="eyebrow">Projects</span>
     <h2 class="section__title">Selected work</h2>
-    <p class="section__lede">Current work at The University of Tokyo, plus applied research and consultancy across railway resilience, travel behaviour, and urban-mobility policy. Software projects and longer write-ups are on the <a href="https://wattwong103.github.io/projects/" target="_blank" rel="noopener">personal site</a>.</p>
+    <p class="section__lede">Current work at The University of Tokyo, plus applied research and consultancy across railway resilience, travel behaviour, and urban-mobility policy. Open-source research tools are listed below; the rest of the software and longer write-ups are on the <a href="https://wattwong103.github.io/projects/" target="_blank" rel="noopener">personal site</a>.</p>
   </div>
   <div class="projects">
     <article class="card card--interactive project">
@@ -321,6 +338,32 @@ layout: homepage
       </div>
     </article>
     <article class="card card--interactive project">
+      <div class="project__cover project__cover--motif" role="img" aria-label="Transit-route motif"></div>
+      <div class="project__body">
+        <div><span class="badge badge--accent">Open source &middot; Geovisualization</span></div>
+        <h3 class="project__title">trajectory-viz</h3>
+        <p class="project__desc">Interactive dashboard for agent-based mobility output, first built for the Pseudo-PFLOW truck and taxi runs (4.43M trips, 233M waypoints). FastAPI and DuckDB backend; React, deck.gl and MapLibre map; any trajectory dataset via a declarative source registry.</p>
+        <p class="project__meta">Author &middot; 2026 – present &middot; MIT</p>
+        <div class="pub__links">
+          <a class="linkchip" href="https://github.com/wattwong103/trajectory-viz" target="_blank" rel="noopener">Code</a>
+          <a class="linkchip" href="https://wattwong103.github.io/projects/12_project/" target="_blank" rel="noopener">Project</a>
+        </div>
+      </div>
+    </article>
+    <article class="card card--interactive project">
+      <div class="project__cover project__cover--motif" role="img" aria-label="Transit-route motif"></div>
+      <div class="project__body">
+        <div><span class="badge badge--accent">Open data &middot; Flood &amp; evacuation</span></div>
+        <h3 class="project__title">BKK/FLOW</h3>
+        <p class="project__desc">Open-data platform applying the PFLOW people&ndash;activities&ndash;trips&ndash;trajectories contract to Bangkok flood exposure and evacuation connectivity, with a licence-aware source registry and immutable, auditable runs. Demonstration status; not a forecast.</p>
+        <p class="project__meta">Author &middot; 2026 – present &middot; MIT</p>
+        <div class="pub__links">
+          <a class="linkchip" href="https://github.com/wattwong103/flood-vul-evac" target="_blank" rel="noopener">Code</a>
+          <a class="linkchip" href="https://wattwong103.github.io/projects/13_project/" target="_blank" rel="noopener">Project</a>
+        </div>
+      </div>
+    </article>
+    <article class="card card--interactive project">
       <img class="project__cover" src="{{ '/assets/img/traffic-flow.jpg' | relative_url }}" alt="Highway traffic" loading="lazy" />
       <div class="project__body">
         <div><span class="badge badge--accent">Forecasting &middot; DoH</span></div>
@@ -330,11 +373,11 @@ layout: homepage
       </div>
     </article>
     <article class="card card--interactive project">
-      <img class="project__cover" src="{{ '/assets/img/future-vision.png' | relative_url }}" alt="Future urban vision" loading="lazy" />
+      <div class="project__cover project__cover--motif" role="img" aria-label="Transit-route motif"></div>
       <div class="project__body">
         <div><span class="badge badge--accent">Climate &middot; GIZ</span></div>
         <h3 class="project__title">Climate-Sensitive Transport</h3>
-        <p class="project__desc">Climate-sensitive transportation planning for Thai cities under the UrbanAct Project.</p>
+        <p class="project__desc">Climate-sensitive transportation planning for Chiang Mai and Khon Kaen under the GIZ UrbanAct Project.</p>
         <p class="project__meta">Research Assistant &middot; 2023</p>
       </div>
     </article>
@@ -457,6 +500,14 @@ layout: homepage
     <div class="service-row">
       <span class="service-row__label">Conference Reviewer</span>
       <p class="service-row__value"><a href="https://iatbr2024.univie.ac.at/home/" target="_blank" rel="noopener">IATBR 2024</a></p>
+    </div>
+    <div class="service-row">
+      <span class="service-row__label">Teaching</span>
+      <p class="service-row__value">Lecturer &amp; faculty advisor, <a href="https://www.mwit.ac.th/" target="_blank" rel="noopener">Mahidol Wittayanusorn School</a> (2020 – present): National Geography Olympiad curriculum, fieldwork and human-geography training. <a href="https://wattwong103.github.io/teaching/" target="_blank" rel="noopener">More</a></p>
+    </div>
+    <div class="service-row">
+      <span class="service-row__label">Writing</span>
+      <p class="service-row__value"><a href="https://wattwong103.github.io/blog/" target="_blank" rel="noopener">Transit-Threads</a>, a blog on transportation, urban mobility and the research behind these papers.</p>
     </div>
   </div>
 </section>

@@ -597,6 +597,11 @@ strong { color: var(--text-strong); font-weight: var(--weight-bold); }
 @media (max-width: 480px) {
   .shell { padding: var(--space-6) 18px var(--space-7); }
   .nav__inner { padding: 12px 18px; }
+  /* Keep the nav on one row at phone width: the hero just below already
+     shows the name, so the wordmark text gives way to the icon. */
+  .brand > span { display: none; }
+  .nav__links { gap: 12px; }
+  .nav__link { font-size: 14px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
